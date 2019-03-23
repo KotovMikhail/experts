@@ -4824,29 +4824,34 @@ button.close {
     color: #333333;
     max-width: 920px;
     margin: 0 auto;
+    margin-bottom: 20px;
 }
 
 @media (min-width: 552px) {
     .expert-desc {
         font-size: 21px;
+        margin-bottom: 30px;
     }
 }
 
 @media (min-width: 768px) {
     .expert-desc {
         font-size: 22px;
+        margin-bottom: 40px;
     }
 }
 
 @media (min-width: 992px) {
     .expert-desc {
         font-size: 23px;
+        margin-bottom: 5px;
     }
 }
 
 @media (min-width: 1200px) {
     .expert-desc {
         font-size: 1.4rem;
+        margin-bottom: 60px;
     }
 }
 
